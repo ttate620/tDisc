@@ -1,0 +1,41 @@
+
+
+tDisc
+
+
+Version 1.0
+________________________________________
+
+Build and Runtime Requirements
+_______________________________________
+
+Xcode  >= v11.6
+python >=3.7
+virtualenv
+
+Configuring the Project
+
+    1. Download repo onto your local machine
+    
+
+About tDisc
+    tDisc is an iPhone application for disc golf scoring. It is easy to quickly create an account and get started playing!
+    Select a course from the Rochester, NY or Buffalo, NY area either by name of location. Get information about the course and holes you are playing and save your scores as you go. 
+
+Tech Stack
+
+    Swift 
+    UIKit
+    MapKit
+    Python
+    Django API Framework
+    SQLite3 database
+    
+
+Application Architexture
+
+    This application consists of the API built in Python and Django and the front end built in Swift using UIKit and MapKit.
+    The Django backend maintains and serves course information and user data.
+    Swift and UIKit create a simple user interface.
+
+
