@@ -10,13 +10,19 @@ Build and Runtime Requirements
 _______________________________________
 
 Xcode  >= v11.6
-python >=3.7
+python l>=3.7
 virtualenv
 
 Configuring the Project
 
     1. Download repo onto your local machine
-    
+    2. Open the folder "tDisc" in Xcode
+    3. $cd tDisc_api/discGolfApp/
+    4. $source env/bin/activate
+    5. $cd discGolfApp/
+    6. $python manage.py runserver
+    7. In Xcode start your simulation on an >= iPhone 11
+    8. Create a new account, sign in, and start playing.
 
 About tDisc
     tDisc is an iPhone application for disc golf scoring. It is easy to quickly create an account and get started playing!
