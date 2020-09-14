@@ -49,4 +49,9 @@ ________________
     The Django backend maintains and serves course information and user data.
     Swift and UIKit create a simple user interface.
 
-
+ ![home screen](pic1.png)
+ ![profile](pic2.png)
+ ![map screen](pic3.png)
+ ![course search](pic4.png)
+ ![scoring screen](pic5.png)
+ ![game screen](pic6.png)
